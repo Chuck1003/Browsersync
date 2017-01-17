@@ -11,10 +11,7 @@
   "devDependencies": {
     "browser-sync": "^2.18.2",
     "gulp": "^3.9.1",
-    "gulp-connect": "^5.0.0",
     "gulp-less": "^3.3.0",
-    "gulp-livereload": "^3.8.1",
-    "gulp-refresh": "^1.1.0",
     "gulp-uglify": "^2.0.0",
     "os": "^0.1.1"
   }
