@@ -1,2 +1,2 @@
 "# 文件目录详见 tree.png" 
-https://browsersync.io/docs/api
+"# browsersync 使用API:" https://browsersync.io/docs/api
