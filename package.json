@@ -1,0 +1,21 @@
+{
+  "name": "autotest",
+  "version": "1.0.0",
+  "description": "just test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cxf15062",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.2",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-less": "^3.3.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-refresh": "^1.1.0",
+    "gulp-uglify": "^2.0.0",
+    "os": "^0.1.1"
+  }
+}
